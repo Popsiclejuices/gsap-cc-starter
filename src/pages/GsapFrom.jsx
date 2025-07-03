@@ -8,7 +8,7 @@ const GsapFrom = () => {
       yoyo: true,
       rotation: 360,
       duration: 2,
-      ease: "power1.inOut",
+      ease: "power1.in",
     });
   }, []);
   return (
